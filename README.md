@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Languages I speak fluently:</p>
+<p align="left">Some of the languages I speak fluently:</p>
 
 ###
 
