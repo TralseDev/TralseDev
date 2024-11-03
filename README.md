@@ -6,11 +6,20 @@
 
 ###
 
-<p align="left">🔍 Enthusiast of Offensive Security & Cybersecurity. CTF player, game hacker, and proud button-presser. I’m always on the hunt for bugs—and I pet rats that come back to me. Explore my projects to learn more, especially about the offensive coding aspects of security and vulnerabilities.</p>
+🔍 **Enthusiast of Offensive Security & Cybersecurity**  
+- 🎮 CTF player, game hacker, proud button-presser and pen tester.  
+- 🐀 I hunt bugs and pet rats that come back to me.
+- 🔍 Explore my projects to learn more, especially about the offensive coding aspects of security and vulnerabilities.  
 
-###
+- 💻 Passionate about uncovering intriguing bugs and vulnerabilities.  
+- ⚡ Thrill of writing exploits in various languages to bring findings to life.  
 
-<p align="left">I’m always on the lookout for intriguing bugs and vulnerabilities, and I love the thrill of writing exploits in various languages to bring these findings to life.<br><br>I believe in sharing knowledge and giving back to the community that has fueled my own learning. Every day is a chance to expand my skills and discover new techniques, and I’m committed to continuous growth in this fast-paced field. Here, you’ll find PoCs for vulnerabilities, along with various hacking techniques and even some malware samples for educational purposes. Dive in to explore the depths of security with me!</p>
+- 🤝 Committed to sharing knowledge and giving back to the community that has fueled my learning.  
+- 📚 Every day is an opportunity to expand my skills and discover new techniques.  
+- 🚀 Dedicated to continuous growth in this fast-paced field.  
+
+- 📜 Find proofs of concept (PoCs) for vulnerabilities, various hacking techniques, and even some malware samples for educational purposes.  
+- 🌊 Dive in to explore the depths of security with me!
 
 ###
 
