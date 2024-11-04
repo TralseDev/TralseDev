@@ -64,7 +64,7 @@
 <div align="center">
   <img src="https://automatically-update-most-used-langauges-on-profile-readme-d3vd.vercel.app/api?username=TralseDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://automatically-update-most-used-langauges-on-profile-readme-d3vd.vercel.app/api/top-langs?layout=compact&locale=en&username=TralseDev&card_width=320&hide_title=false&hide_border=true&theme=midnight-purple&langs_count=5&hide=html,css,shell,sage,m4,cuda" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=TralseDev&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=TralseDev&locale=en&theme=midnight-purple&hide_border=true&border_radius=5&mode=daily" height="150" alt="streak graph"  />
 </div>
 
 ###
